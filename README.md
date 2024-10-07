@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Cal
-- 👀 I’m interested in learning all aspects of coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on whetever seems to be fun
+- I’m interested in learning all aspects of coding
   
 
 <!---
