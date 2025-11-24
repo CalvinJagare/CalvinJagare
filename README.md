@@ -9,7 +9,7 @@ I like taking vague ideas, turning them into well-structured systems, and shippi
 
 - **From idea to production** – I’m comfortable owning a project end-to-end: requirements, architecture, APIs, data, and UI.
 - **Full-stack with a .NET core** – Most of my work is in C#/.NET, Blazor, and SQL Server, but I’m happy across the whole stack.
-- **Data & automation** – I enjoy building flows that glue systems together: forms → automation → database → dashboards.
+- **Data & automation** – I enjoy building flows that glue systems together: user -> automation -> database -> dashboards.
 - **Product mindset** – I care about users, not just code. Clean architecture is important, but it has to ship.
 
 ---
