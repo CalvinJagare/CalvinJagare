@@ -104,7 +104,7 @@ You can see more on my portfolio: **[PersonalPortfolio](https://calvinjagare.git
 ## Let’s talk
 
 - 📧 **Email:** jagarecalvin@gmail.com  
-- 🌐 **Portfolio:** [PersonalPortfolio](https://calvinjagare.github.io/PersonalPortfolio)  
+- 🌐 **Portfolio:** [calvinjagare](calvinjagare.se)  
 - 💼 **LinkedIn:** [calvin-jägare](https://www.linkedin.com/in/calvin-j%C3%A4gare)  
 - 🧑‍💻 **GitHub Projects:** [CalvinJagare](https://github.com/CalvinJagare)
 
