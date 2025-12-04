@@ -37,7 +37,7 @@ I like taking vague ideas, turning them into well-structured systems, and shippi
   Platform for collecting wellbeing & performance data from research teams via Microsoft Forms, routing it with Power Automate into Azure SQL, and visualizing everything in Power BI dashboards.  
   _Power BI · Power Automate · Azure · C# · SQL_
 
-You can see more on my portfolio: **[PersonalPortfolio](https://calvinjagare.github.io/PersonalPortfolio)**
+You can see more on my portfolio: **[PersonalPortfolio]((https://calvinjagare.se))**
 
 ---
 
