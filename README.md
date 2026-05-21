@@ -61,16 +61,7 @@ You can see more on my portfolio: https://calvinjagare.se
 - **Azure** – SQL, App Service, Functions, Storage
 - **Vercel / Netlify** – static deployments (React/JS)
 - **GitHub Pages** – static hosting
-- **CI pipelines** (build → test → deploy)
-- and more...
-
-### Productivity & Workflow
-- **VS Code**, **Rider**, **Visual Studio**
-- **Notion**, **Obsidian**, **Jira**
-- **Figma** – UI structure, wireframes
-- **Postman / Swagger** – API testing
-- **Make.com / Zapier** – workflow automation
-- and more...
+- **CI pipelines** 
 
 ---
 
