@@ -1,25 +1,7 @@
-# 👋 Hey, I'm Calvin Jägare
+# Hey, I'm Calvin Jägare
 
 Full-stack developer from Sweden, focused on building practical tools, internal platforms, and data-driven products.  
 I like taking vague ideas, turning them into well-structured systems, and shipping things that people actually use.
-
----
-
-## What I do
-
-- **From idea to production** – I’m comfortable owning a project end-to-end: requirements, architecture, APIs, data, and UI.
-- **Full-stack with a .NET core** – Most of my work is in C#/.NET, Blazor, and SQL Server, but I’m happy across the whole stack.
-- **Data & automation** – I enjoy building flows that glue systems together: user -> automation -> database -> dashboards.
-- **Product mindset** – I care about users, not just code. Clean architecture is important, but it has to ship.
-
----
-
-## Focus areas
-
-- **Web apps & portals** – Customer portals, internal tools, admin dashboards.
-- **Data platforms & KPIs** – Collecting, cleaning, and visualizing data so teams can make decisions.
-- **Process automation** – Connecting APIs and services to remove manual work.
-- **Developer experience** – Structured repos, sensible conventions, and documentation that future-me will thank me for.
 
 ---
 
@@ -92,20 +74,11 @@ You can see more on my portfolio: **[PersonalPortfolio]((https://calvinjagare.se
 
 ---
 
-## How I work
-
-- **Clear scope first** – I like to understand the problem, constraints, and success criteria before touching code.
-- **Iterative delivery** – Ship something small, validate, then extend. Feedback > guessing.
-- **Clean, typed, testable** – I prefer strongly typed APIs, clear boundaries, and tests where they add real value.
-- **Documentation & handover** – Good handover and docs so others can maintain and extend the system.
-
----
-
 ## Let’s talk
 
-- 📧 **Email:** jagarecalvin@gmail.com  
-- 🌐 **Portfolio:** [calvinjagare](calvinjagare.se)  
-- 💼 **LinkedIn:** [calvin-jägare](https://www.linkedin.com/in/calvin-j%C3%A4gare)  
-- 🧑‍💻 **GitHub Projects:** [CalvinJagare](https://github.com/CalvinJagare)
+- **Email:** jagarecalvin@gmail.com  
+-  **Portfolio:** [calvinjagare](calvinjagare.se)  
+-  **LinkedIn:** [calvin-jägare](https://www.linkedin.com/in/calvin-j%C3%A4gare)  
+-  **GitHub Projects:** [CalvinJagare](https://github.com/CalvinJagare)
 
 > Always happy to talk about .NET, Blazor, internal tools, data, or just cool side projects.
