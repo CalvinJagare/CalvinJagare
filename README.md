@@ -5,24 +5,6 @@ I like taking vague ideas, turning them into well-structured systems, and shippi
 
 ---
 
-## Selected work
-
-- **B2B Sales & Order Management Portal**  
-  Full-stack customer portal with quote approval workflows, payment processing, and real-time collaboration between customer and seller.  
-  _Blazor · ASP.NET Core · REST API · SQL Server_
-
-- **Dynamic Product Recommendation System**  
-  Matching engine that recommends optimal product combinations from multiple suppliers based on specs and budget, with catalog import and price logic.  
-  _C# · ASP.NET Core · SQL Server · PDF processing_
-
-- **KPI Performance Analytics System (Research)**  
-  Platform for collecting wellbeing & performance data from research teams via Microsoft Forms, routing it with Power Automate into Azure SQL, and visualizing everything in Power BI dashboards.  
-  _Power BI · Power Automate · Azure · C# · SQL_
-
-You can see more on my portfolio: https://calvinjagare.se
-
----
-
 ## Stack & Tools
 
 ### Languages & Frameworks
